@@ -62,3 +62,10 @@ prediction = loaded_model.predict(X_new)`
 In summation, from establishing the data pipeline to training a sentiment analysis model, each step was meticulously executed, culminating in a powerful tool capable of discerning Twitter sentiments.
 
 Outcome: Achieved 77.8% accuracy on test data for sentiment analysis. Model saved for future use.
+
+
+<pre>
+```python
+def greet(name):
+    print(f"Hello, {name}!")
+```
