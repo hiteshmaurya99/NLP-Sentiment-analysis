@@ -1,4 +1,5 @@
 # NLP-Sentiment-analysis
+Project implementing sentiment analysis of twitter comments and classify it as positive or negative using Logistic regression.
 Colab notebook showcasing the implementation on NLP on binary classification task.
 Commencing with the foundational steps, the Kaggle package was installed to facilitate seamless access to datasets. This was followed by the establishment of secure Kaggle API credentials, ensuring a structured and secure approach to data retrieval.
 
